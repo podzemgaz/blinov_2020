@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.epam.learn.action"},{"l":"by.epam.learn.arg"},{"l":"by.epam.learn.bean"},{"l":"by.epam.learn.console"},{"l":"by.epam.learn.db"},{"l":"by.epam.learn.entity"},{"l":"by.epam.learn.main"}];updateSearchResults();
